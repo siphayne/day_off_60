@@ -1,8 +1,6 @@
 # Day Off Vial Support
 
-![Day Off](https://imgur.com/XAmF78B)
-
-A 60% with a knob and a few macros. [More info at nixkeyboards.com](https://nixkeyboards.com/)
+[More info at nixkeyboards.com](https://nixkeyboards.com/)
 
 * Keyboard Maintainer: [Schrobie](https://github.com/schrobie)
 * Some help with Vial: [siphayne](https://github.com/siphayne)
